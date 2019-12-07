@@ -81,9 +81,12 @@ back to in future.
 
 ## Issue
 
-I noticed that when generating a single-page documen
+I noticed that when generating a single-page document
 that for some reason the horizontal rule and page
-break isn't being inserted.
+break isn't being inserted. this worked at one point
+during production - links to skip between sections were
+inserted between each page...but not any more! I am a
+bad boy! S....s'embarassinnnnnnn!
 
 Why didn't I notice this? Most of the testing I
 did was for compiling multi-page as opposed to
