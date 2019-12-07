@@ -78,3 +78,23 @@ For now, though - I have other projects to work
 on so __GenHTML__ is something I'll have to come
 back to in future.
 
+
+## Issue
+
+I noticed that when generating a single-page documen
+that for some reason the horizontal rule and page
+break isn't being inserted.
+
+Why didn't I notice this? Most of the testing I
+did was for compiling multi-page as opposed to
+single-page documents!
+
+I reckon some changes to the templating system will
+also be amarked improvement - when I finish __bitraq__
+I'll re-do this as I found this utility to be quite
+useful.
+
+I'll look into this at some point, just wanted to
+leave a note here lest I forget!
+
+Michael.
